@@ -14,7 +14,7 @@ class Socialink_Widget extends WP_Widget {
 	/**
 	 * Prefix for the widget.
 	 */
-	var $prefix = zframe;
+	var $prefix;
 
 	/**
 	 * Textdomain for the widget.
@@ -204,7 +204,7 @@ class Socialink_Widget extends WP_Widget {
 				<textarea name="<?php echo $this->get_field_name( 'outro_text' ); ?>" id="<?php echo $this->get_field_id( 'outro_text' ); ?>" rows="4" class="widefat"><?php echo htmlentities($instance['outro_text']); ?></textarea>
 			</p>
 			<p>
-				Want a more social widget? Try <a href="http://zourbuth.com/socialinked-widget">Socialinked Widget</a>. Easy to use, support drag-drop for icon reordering and much more!
+				Want a more social widget? Try <a href="http://zourbuth.com/plugins/socialinked/">Socialinked Widget</a>. Easy to use, support drag-drop for icon reordering and much more!
 			</p>
 			<p>
 				<a href="http://feedburner.google.com/fb/a/mailverify?uri=zourbuth&amp;loc=en_US">Subscribe</a>  to <a href="http://zourbuth.com">zourbuth</a> by <a href="http://feedburner.google.com/fb/a/mailverify?uri=zourbuth&amp;loc=en_US">email</a>.<br />

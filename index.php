@@ -3,7 +3,7 @@
 	Plugin Name: Socialinks Widget
 	Plugin URI: http://zourbuth.com/plugins/socialinks-widget
 	Description:  This widget is a imple social link widget that shows user profile link with icon. Full features social widget with 16 site supported. Just enter your link and have fun. 
-	Version: 1.0
+	Version: 1.0.1
 	Author: zourbuth
 	Author URI: http://zourbuth.com
 	License: Under GPL2
@@ -59,7 +59,7 @@ function _my_portfolio($links, $file) {
 	$plugin = plugin_basename(__FILE__);
 
 	if ($file == $plugin) // create link
-		return array_merge( $links, array( sprintf( '<a href="http://codecanyon.net/user/zourbuth/portfolio?ref=zourbuth">Portfolios</a>', $plugin, __('Portfolios') ) ));
+		return array_merge( $links, array( sprintf( '<a href="#">Portfolios</a>', $plugin, __('Portfolios') ) ));
 	return $links;
 }
 ?>

@@ -1,10 +1,10 @@
 === Socialinks Widget ===
 Contributors: zourbuth
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6D3WAJTVKAFC
-Tags: subscription, widget, email, feedburner, feed
+Tags: social, social site social profile, share, sharing, facebook, twitter, google plus, icons, image, link, myspace, vimeo, youtube, flickr, email,
 Requires at least: 3.1
-Tested up to: 3.3
-Stable tag: 1.0
+Tested up to: 3.5
+Stable tag: 1.0.1
 
 With this widget you can give link to social profile site with icon.
 
@@ -41,6 +41,9 @@ Please read the FAQ under http://zourbuth.com/plugins/socialinks-widget
 2. Widget in frontend
 
 == Changelog ==
+
+= 1.0.1 =
+* Update widget prefix
 
 = 1.0 =
 * Released
