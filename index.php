@@ -3,7 +3,7 @@
 	Plugin Name: Socialinks Widget
 	Plugin URI: http://zourbuth.com/plugins/socialinks-widget
 	Description:  This widget is a imple social link widget that shows user profile link with icon. Full features social widget with 16 site supported. Just enter your link and have fun. 
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: zourbuth
 	Author URI: http://zourbuth.com
 	License: Under GPL2
@@ -32,7 +32,10 @@ add_action( 'plugins_loaded', 'socialinks_widget_plugins_loaded' );
 /* Initializes the plugin and it's features. */
 function socialinks_widget_plugins_loaded() {
 
+	load_plugin_textdomain( 'socialinks-widget', false, dirname( plugin_basename( __FILE__ ) ) . '/lang/' );
+
 	/* Set constant path to the members plugin directory. */
+	define( 'SOCIALINKS_WIDGET_VERSION', '1.0.2' );
 	define( 'SOCIALINKS_WIDGET_DIR', plugin_dir_path( __FILE__ ) );
 
 	/* Set constant path to the members plugin directory. */
@@ -49,7 +52,7 @@ function socialinks_widget_plugins_loaded() {
 function socialinks_load_widgets() {
 
 	/* Load widget file. */
-	require_once( SOCIALINKS_WIDGET_DIR . 'socialinks-widget.php' );
+	require_once( SOCIALINKS_WIDGET_DIR . 'widget.php' );
 
 	/* Register widget. */
 	register_widget( 'Socialink_Widget' );

@@ -3,8 +3,8 @@ Contributors: zourbuth
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6D3WAJTVKAFC
 Tags: social, social site social profile, share, sharing, facebook, twitter, google plus, icons, image, link, myspace, vimeo, youtube, flickr, email,
 Requires at least: 3.1
-Tested up to: 3.5
-Stable tag: 1.0.1
+Tested up to: 4.1
+Stable tag: 1.0.2
 
 With this widget you can give link to social profile site with icon.
 
@@ -25,8 +25,8 @@ Based on a work at www.komodomedia.com.
 
 == Installation ==
 
-You can use the built in installer and upgrader, or you can install the plugin manually.
-1. Go to the menu 'Plugins' -> 'Install' and search for 'Simple Social Widget Widget'
+You can use the built in installer and upgrader, or you can install the plugin manually.<br />
+1. Go to the menu 'Plugins' -> 'Install' and search for 'Socialinks Widget'<br />
 2. Click 'install'.
 
 == Frequently Asked Questions ==
@@ -41,6 +41,10 @@ Please read the FAQ under http://zourbuth.com/plugins/socialinks-widget
 2. Widget in frontend
 
 == Changelog ==
+
+= 1.0.2 =
+* Updated to WP 4.
+* Added pot file for translation
 
 = 1.0.1 =
 * Update widget prefix
