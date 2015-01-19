@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Socialinks Widget\n"
+"POT-Creation-Date: 2015-01-19 09:55+0700\n"
+"PO-Revision-Date: 2015-01-19 09:56+0700\n"
+"Last-Translator: Selz <engineer@selz.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: socialinks-widget\n"
+"X-Poedit-SearchPath-0: E:\\xampp\\htdocs\\area51\\wp-content\\plugins"
+"\\socialinks-widget\n"
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/index.php:65
+msgid "Portfolios"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:198
+msgid "General"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:199
+msgid "Socials"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:200
+msgid "Supports"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:221
+msgid "Title:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:225
+msgid "Intro text:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:229
+msgid "Outro text:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:238
+msgid "Delicious:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:242
+msgid "Deviantart:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:246
+msgid "Email:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:250
+msgid "Facebook:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:254
+msgid "Flickr:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:258
+msgid "Linkedin:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:263
+msgid "Myspace:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:267
+msgid "Netvibes:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:271
+msgid "Reddit:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:275
+msgid "Rss:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:279
+msgid "Skype:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:284
+msgid "Tumblr:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:288
+msgid "Twitter:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:292
+msgid "Stumbleupon:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:296
+msgid "Vimeo:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:300
+msgid "Youtube:"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:308
+#, php-format
+msgid ""
+"Want a more social widget? Try <a href=\"%s\">Socialinked Widget</a>. Easy "
+"to use, support drag-drop for icon reordering and much more!"
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:314
+msgid "Like my work? Please consider to "
+msgstr ""
+
+#: E:\xampp\htdocs\area51\wp-content\plugins\socialinks-widget/widget.php:314
+msgid "donate"
+msgstr ""
