@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: social, social site social profile, share, sharing, facebook, twitter, google plus, icons, image, link, myspace, vimeo, youtube, flickr, email,
 Requires at least: 3.1
 Tested up to: 4.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 With this widget you can give link to social profile site with icon.
 
@@ -41,6 +41,9 @@ Please read the FAQ under http://zourbuth.com/plugins/socialinks-widget
 2. Widget in frontend
 
 == Changelog ==
+
+= 1.0.3 =
+* Added Serbian language pack
 
 = 1.0.2 =
 * Updated to WP 4.

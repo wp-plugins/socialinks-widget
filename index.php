@@ -3,7 +3,7 @@
 	Plugin Name: Socialinks Widget
 	Plugin URI: http://zourbuth.com/plugins/socialinks-widget
 	Description:  This widget is a imple social link widget that shows user profile link with icon. Full features social widget with 16 site supported. Just enter your link and have fun. 
-	Version: 1.0.2
+	Version: 1.0.3
 	Author: zourbuth
 	Author URI: http://zourbuth.com
 	License: Under GPL2
